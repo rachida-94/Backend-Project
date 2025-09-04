@@ -1,3 +1,11 @@
+Instalation and set up:
+- Node.js 
+- Mongoose
+- express
+- josonwebtoken
+- Postman or any API testing tool
+- dotenv
+
 env file information you need for this application
 
 PORT=3000
